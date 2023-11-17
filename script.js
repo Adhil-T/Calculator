@@ -1,0 +1,1 @@
+let scn = document.getElementById('screen');
